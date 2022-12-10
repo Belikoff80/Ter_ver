@@ -1,0 +1,15 @@
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.csproj.AssemblyReference.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.AssemblyInfoInputs.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.AssemblyInfo.cs
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.csproj.CoreCompileInputs.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\bin\Debug\net6.0\C#HomeTask_8.exe
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\bin\Debug\net6.0\C#HomeTask_8.deps.json
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\bin\Debug\net6.0\C#HomeTask_8.runtimeconfig.json
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\bin\Debug\net6.0\C#HomeTask_8.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\bin\Debug\net6.0\C#HomeTask_8.pdb
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\refint\C#HomeTask_8.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.pdb
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\C#HomeTask_8.genruntimeconfig.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_8\obj\Debug\net6.0\ref\C#HomeTask_8.dll
