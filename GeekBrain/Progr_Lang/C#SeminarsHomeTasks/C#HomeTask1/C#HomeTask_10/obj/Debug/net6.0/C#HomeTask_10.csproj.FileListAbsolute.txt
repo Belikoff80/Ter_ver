@@ -1,0 +1,15 @@
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.csproj.AssemblyReference.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.AssemblyInfoInputs.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.AssemblyInfo.cs
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.csproj.CoreCompileInputs.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\bin\Debug\net6.0\C#HomeTask_10.exe
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\bin\Debug\net6.0\C#HomeTask_10.deps.json
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\bin\Debug\net6.0\C#HomeTask_10.runtimeconfig.json
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\bin\Debug\net6.0\C#HomeTask_10.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\bin\Debug\net6.0\C#HomeTask_10.pdb
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\refint\C#HomeTask_10.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.pdb
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\C#HomeTask_10.genruntimeconfig.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\C#SeminarsHomeTasks\C#HomeTask1\C#HomeTask_10\obj\Debug\net6.0\ref\C#HomeTask_10.dll
